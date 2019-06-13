@@ -1,3 +1,3 @@
 # from-zero-to-reactive-hero
 
-Reactive programming training
+Fork from "Reactive programming training" for individual development during training
